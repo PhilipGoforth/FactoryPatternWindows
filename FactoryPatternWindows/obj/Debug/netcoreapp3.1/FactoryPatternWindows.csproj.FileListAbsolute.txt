@@ -1,0 +1,13 @@
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\bin\Debug\netcoreapp3.1\FactoryPatternWindows.exe
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\bin\Debug\netcoreapp3.1\FactoryPatternWindows.deps.json
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\bin\Debug\netcoreapp3.1\FactoryPatternWindows.runtimeconfig.json
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\bin\Debug\netcoreapp3.1\FactoryPatternWindows.runtimeconfig.dev.json
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\bin\Debug\netcoreapp3.1\FactoryPatternWindows.dll
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\bin\Debug\netcoreapp3.1\FactoryPatternWindows.pdb
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\obj\Debug\netcoreapp3.1\FactoryPatternWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\obj\Debug\netcoreapp3.1\FactoryPatternWindows.AssemblyInfoInputs.cache
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\obj\Debug\netcoreapp3.1\FactoryPatternWindows.AssemblyInfo.cs
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\obj\Debug\netcoreapp3.1\FactoryPatternWindows.csproj.CoreCompileInputs.cache
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\obj\Debug\netcoreapp3.1\FactoryPatternWindows.dll
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\obj\Debug\netcoreapp3.1\FactoryPatternWindows.pdb
+C:\Users\Ego\repos\FactoryPatternWindows\FactoryPatternWindows\obj\Debug\netcoreapp3.1\FactoryPatternWindows.genruntimeconfig.cache
